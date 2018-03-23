@@ -1,7 +1,7 @@
 # Antz
 
 
-Toy Project: Evolving Cooperative Behavior
+Evolves Cooperative Behavior
 
 C++, OpenGL, Genetic Programming, Cooperation, Distributed Systems, Emergence
 
